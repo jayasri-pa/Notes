@@ -40,3 +40,6 @@ Fix: https://github.com/icl-utk-edu/papi/issues/378
 
 #### What a pain, not hurt yet
 > https://web.eece.maine.edu/~vweaver/projects/perf_events/abi_breakage.html
+
+#### L2.RQSTS
+http://www.nacad.ufrj.br/online/intel/vtune/users_guide/mergedProjects/analyzer_ec/mergedProjects/reference_olh/mergedProjects/pmn/events/l2_rqsts.html
